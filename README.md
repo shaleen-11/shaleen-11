@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shaleen-11
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in Machine Learning.
 - 📫 How to reach me : k.shaleen@iitg.ac.in
 
 <!---
